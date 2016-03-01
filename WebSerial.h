@@ -2,6 +2,8 @@
 
 WebSerial Library for Arduino
 
+v1.1.0
+
 Implementation of an over Ethernet (WebSerial) Monitor,equivalent to Serial Monitor, using Websockets.
 
 Created by Alexandros Baltas, 2013.
